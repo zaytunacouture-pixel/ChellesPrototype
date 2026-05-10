@@ -1,0 +1,9 @@
+Library/
+Temp/
+Builds/
+Builds/
+Logs/
+UserSttings/
+.vs/
+*.csproj
+*.sln
